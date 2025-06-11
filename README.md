@@ -1,6 +1,6 @@
 # ✨ NodeTalk – Full Stack Realtime Chat App ✨
 
-A modern real-time chat application built with the **MERN stack**, featuring real-time messaging likw Wattsspp, user authentication, and cloud image uploads.
+A modern real-time chat application built with the **MERN stack**, featuring real-time messaging likw WhatsApp, user authentication, and cloud image uploads.
 
 ---
 
